@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-color: #272221;
+    --border-color: #574F4D;
+    --dotted-border-color:  #8D8686;
+}
+
+body {
+    background-color: var(--bg-color);
+}
